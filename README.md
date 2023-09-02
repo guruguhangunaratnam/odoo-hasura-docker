@@ -1,5 +1,9 @@
 # ODOO + HASURA + DOCKER = SCRUMPTIOUS!
 
+This is an installer for launching Odoo v14 in a Docker Container with Hasura DB & full support for custom add-ons.  Find the related Medium article [here](https://guruguhan.medium.com/odoo-hasura-graphql-docker-62ddc37abe4e):
+
+## Installation
+
 Install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/) yourself, then run:
 
 ``` bash
@@ -17,11 +21,11 @@ To run in detached mode, execute this command:
 $ docker-compose up -d
 ```
 
-# Custom addons
+### Custom addons
 
 The **addons** folder contains custom addons. Just put your custom addons if you have any.
 
-# Odoo container management
+### Odoo container management
 
 **Restart Odoo**:
 
