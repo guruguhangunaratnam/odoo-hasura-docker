@@ -1,4 +1,4 @@
-# ODOO + HASURA + DOCKER = SCRUMPTIOUS!
+# ODOO + HASURA + DOCKER
 
 This is an installer for launching Odoo v14 in a Docker Container with Hasura DB & full support for custom add-ons.  Find the related Medium article [here](https://guruguhan.medium.com/odoo-hasura-graphql-docker-62ddc37abe4e):
 
